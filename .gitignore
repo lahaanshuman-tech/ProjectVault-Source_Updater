@@ -1,0 +1,10 @@
+build/
+dist/
+__pycache__/
+*.pyc
+*.pcv
+*.backup
+*.update
+*.new
+ProjectVault.exe
+ProjectVaultPico.exe
